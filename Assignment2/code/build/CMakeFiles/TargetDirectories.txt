@@ -1,0 +1,3 @@
+/home/whisper/games101/Assignment2/code/build/CMakeFiles/Rasterizer.dir
+/home/whisper/games101/Assignment2/code/build/CMakeFiles/edit_cache.dir
+/home/whisper/games101/Assignment2/code/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/whisper/games101/Assignment2/code/build",
+  "command": "/usr/bin/clang++ -isystem /usr/local/include/opencv4 -g -std=gnu++17 -o CMakeFiles/Rasterizer.dir/main.cpp.o -c /home/whisper/games101/Assignment2/code/main.cpp",
+  "file": "/home/whisper/games101/Assignment2/code/main.cpp",
+  "output": "CMakeFiles/Rasterizer.dir/main.cpp.o"
+},
+{
+  "directory": "/home/whisper/games101/Assignment2/code/build",
+  "command": "/usr/bin/clang++ -isystem /usr/local/include/opencv4 -g -std=gnu++17 -o CMakeFiles/Rasterizer.dir/rasterizer.cpp.o -c /home/whisper/games101/Assignment2/code/rasterizer.cpp",
+  "file": "/home/whisper/games101/Assignment2/code/rasterizer.cpp",
+  "output": "CMakeFiles/Rasterizer.dir/rasterizer.cpp.o"
+},
+{
+  "directory": "/home/whisper/games101/Assignment2/code/build",
+  "command": "/usr/bin/clang++ -isystem /usr/local/include/opencv4 -g -std=gnu++17 -o CMakeFiles/Rasterizer.dir/Triangle.cpp.o -c /home/whisper/games101/Assignment2/code/Triangle.cpp",
+  "file": "/home/whisper/games101/Assignment2/code/Triangle.cpp",
+  "output": "CMakeFiles/Rasterizer.dir/Triangle.cpp.o"
+}
+]
