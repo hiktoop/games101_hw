@@ -1,0 +1,3 @@
+/home/whisper/games101/A6/Assignment6/build/CMakeFiles/RayTracing.dir
+/home/whisper/games101/A6/Assignment6/build/CMakeFiles/edit_cache.dir
+/home/whisper/games101/A6/Assignment6/build/CMakeFiles/rebuild_cache.dir
